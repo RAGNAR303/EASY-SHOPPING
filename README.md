@@ -7,5 +7,4 @@
 <br>
 <br>
 <p>Usei essas seguintes linguagens de programação</p>
-<p>https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white</p>
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+
