@@ -8,3 +8,4 @@
 <br>
 <p>Usei essas seguintes linguagens de programação</p>
 
+https://github.com/RAGNAR303/EASY-SHOPPING/blob/main/Desafio/projetoresp/assets/MOBILE.png?raw=true
