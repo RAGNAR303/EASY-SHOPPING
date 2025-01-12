@@ -7,5 +7,7 @@
 <br>
 <br>
 <p>Usei essas seguintes linguagens de programação</p>
-<p>https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white</p>
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+
+<img src="https://github.com/RAGNAR303/EASY-SHOPPING/blob/main/Desafio/projetoresp/assets/MOBILE.png?raw=true">
+
+<img src="https://github.com/RAGNAR303/EASY-SHOPPING/blob/main/Desafio/projetoresp/assets/PC.png?raw=true">
